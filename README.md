@@ -3,12 +3,21 @@ This extension will add a context menu entry to search for selected text using S
 Tested on Firefox only.
 
 
-
+---
 
 
 This is a fork from Aaron-P's "SimpleSearchGoogleFor":
 https://github.com/Aaron-P/SimpleSearchGoogleFor
 
-I replaced Google with Startpage as well as updated the icon.svg to represent a Startpage icon.
+Credits go to Aaron Papp!
 
-Credits go to Aaron Papp
+
+---
+
+
+Changes:
+* replaced "Google.com" with "Startpage.com"
+* updated icon.svg to represent Startpage icon
+* changed last character in extension ID string from "a" to "b"
+* updated author and description
+
