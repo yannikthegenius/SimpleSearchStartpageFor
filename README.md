@@ -1,7 +1,14 @@
-This extension will add a context menu entry to search for selected text using Google™. Useful for when your default search engine is an alternative like DuckDuckGo™ but you still want to be able to easily search with Google™.
+This extension will add a context menu entry to search for selected text using Startpage. Useful for when your default search engine is an alternative like DuckDuckGo but you still want to be able to easily search with Startpage.
 
-Chrome extension icon made by [Those Icons](https://www.flaticon.com/authors/those-icons) from [www.flaticon.com](https://www.flaticon.com/)
+Tested on Firefox only.
 
-Firefox extension icon made by [Freepik](https://www.freepik.com/) from Flaticon is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
 
-* [Privacy Information](https://raw.githubusercontent.com/Aaron-P/SimpleSearchGoogleFor/master/PRIVACY)
+
+
+
+This is a fork from Aaron-P's "SimpleSearchGoogleFor":
+https://github.com/Aaron-P/SimpleSearchGoogleFor
+
+I replaced Google with Startpage as well as updated the icon.svg to represent a Startpage icon.
+
+Credits go to Aaron Papp
