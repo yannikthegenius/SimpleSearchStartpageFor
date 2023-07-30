@@ -1,0 +1,7 @@
+src\icons\icon.svg
+src\background.js
+LICENSE-3RD-PARTY.md
+LICENSE.md
+manifest.json
+PRIVACY
+README.md

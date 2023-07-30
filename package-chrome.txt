@@ -1,0 +1,9 @@
+src\icons\icon-128-chrome.png
+src\icons\icon-16-chrome.png
+src\icons\icon-48-chrome.png
+src\background-chrome.js
+LICENSE-3RD-PARTY.md
+LICENSE.md
+manifest-chrome.json
+PRIVACY
+README.md
