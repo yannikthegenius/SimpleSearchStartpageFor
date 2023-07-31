@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Simple Search Startpage For",
-    "version": "1.3.2",
+    "version": "1.4",
     "description": "Startpage search for selected text in context menu.",
     "author": "Yannik Riekert, Aaron Papp",
     "homepage_url": "https://github.com/yannikthegenius/SimpleSearchStartpageFor",
