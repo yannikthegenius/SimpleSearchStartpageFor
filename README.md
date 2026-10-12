@@ -7,12 +7,8 @@ Tested on Firefox / LibreWolf only.
 
 ---
 
-
-This is a fork from Aaron-P's "SimpleSearchGoogleFor":
+This is a fork of Aaron-P's "SimpleSearchGoogleFor":
 https://github.com/Aaron-P/SimpleSearchGoogleFor
-
-Credits go to Aaron Papp!
-
 
 ---
 
